@@ -2,7 +2,7 @@ name: video-overloaded-shot-split-cn
 slug: video-overloaded-shot-split-cn
 display_name: 复杂镜头拆分计划
 description: 将用户提供的镜头描述、情节必留点与总时长预算，拆成可拍摄或可生成的镜头表和衔接要求。适用于单章、单场景或短文的动作过载镜头；仅拆解已有材料，不改写成新脚本。资料不足时明确列出缺项，超出单次范围时要求分批提交。
-version: 1.0.0
+version: 1.0.1
 icon: icon-512.png
 repository: https://github.com/xxjrq/video-overloaded-shot-split-cn
 license: MIT
